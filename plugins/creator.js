@@ -20,14 +20,14 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *Nama RP:* Ammar
-${htjava} *Nama RL:* Executed
-${htjava} *Umur:* 14 Tahun
-${htjava} *Kelas:* 8 Smp
-${htjava} *Status:* Solo
+${htjava} *Nama RP:* B I A M
+${htjava} *Nama RL:* P R A T A M
+${htjava} *Umur:* 20 T A H U N
+${htjava} *Kelas:* 12 S M A 
+${htjava} *Status:* B O Y O L A L I
 
-${htjava} *Ulang Tahun:* 16 june 2008
-${htjava} *Alamat:* Indonesia, jawa tengah, semarang
+${htjava} *Ulang Tahun:* 28 DESEMBER 2003
+${htjava} *Alamat:* INDONESIA, JAWA TENGAH , BOYOLALI 
 ${htjava} *Skills:* 
 > JavaScript [10.7%]
 > Python [81.4%]
@@ -42,8 +42,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
+	    {title: "📱 • Nomor", rowId: ".owner P R A T A M A"},
+	{title: "🎨 • Biodata", rowId: ".owner P R A T A M A"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
