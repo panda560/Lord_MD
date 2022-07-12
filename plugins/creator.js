@@ -11,17 +11,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ tidak menerima save contact
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ Hanya merespon yang berkaitan dengan BOT
+• No Telp ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *Nama RP:* B I A M
-${htjava} *Nama RL:* P R A T A M
+${htjava} *Nama RP:* BIAN
+${htjava} *Nama RL:* ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂
 ${htjava} *Umur:* 20 T A H U N
 ${htjava} *Kelas:* 12 S M A 
 ${htjava} *Status:* B O Y O L A L I
@@ -42,8 +42,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner P R A T A M A"},
-	{title: "🎨 • Biodata", rowId: ".owner P R A T A M A"},
+	    {title: "📱 • Nomor", rowId: ".owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂"},
+	{title: "🎨 • Biodata", rowId: ".owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
